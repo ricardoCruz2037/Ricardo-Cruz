@@ -1,2 +1,2 @@
-# ricardoCruz2023.github.com
+# Pagina oficial de ricardo cruz
 Mi pagina web
