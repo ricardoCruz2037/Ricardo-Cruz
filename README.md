@@ -1,6 +1,4 @@
-# Pagina oficial de ricardo cruz
-Mi pagina web
-
-Este cambio es desde mi compu
-Nuevo branch XD!
-jkjkjkj
+# Pagina oficial de ricardo lópez cruz    
+    
+Version 0.0.1 beta     
+      
